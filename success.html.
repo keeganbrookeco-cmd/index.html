@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Thanks — FlockBlock.Pro</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap" style="padding-top:40px;max-width:700px;margin:0 auto;">
+    <div class="card">
+      <h2>Welcome — thank you for your purchase!</h2>
+      <p class="muted">We appreciate your support as a founding member. Your purchase helps us build the tools you need.</p>
+
+      <h3>What happens next</h3>
+      <ul class="muted">
+        <li>Check your email for the Gumroad receipt (it includes your purchase details).</li>
+        <li>We'll send a follow-up email from <strong>FlockBlock.dnsmi@gmail.com</strong> with onboarding steps and early access instructions.</li>
+        <li>If you don't receive an email within 24 hours, contact <a href="mailto:FlockBlock.dnsmi@gmail.com">FlockBlock.dnsmi@gmail.com</a>.</li>
+      </ul>
+
+      <p style="margin-top:18px">
+        <a class="btn primary" href="/">Back to FlockBlock.Pro</a>
+        <a class="btn ghost" href="/contact.html">Contact support</a>
+      </p>
+    </div>
+
+    <footer class="footer" style="margin-top:18px">
+      © 2026 Keegan Brooke Company. All rights reserved. FlockBlock.Pro™
+    </footer>
+  </div>
+</body>
+</html>
